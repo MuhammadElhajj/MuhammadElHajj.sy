@@ -1,0 +1,110 @@
+.Header {
+    display: flex;
+    justify-content: space-between;
+    background-color: #1b1b1b;
+    padding: 15px 5%;
+    border-radius:  0 0 10px 10px;
+    position: sticky;
+    top: 0;
+
+}
+
+.Header-links {
+    /* display: flex;
+    justify-content: space-between; */
+    /* float: 1; */
+}
+
+.Header-links a {
+
+    color : #9c9c9c ;
+    text-decoration: none;
+    margin-right: 45px;
+}
+
+.Header-links a:hover {
+    color: #fff;
+}
+
+.Header-icons a {
+    color : #9c9c9c ;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.Header-icons a:hover {
+    color: #fff;
+}
+
+.Header-bars {
+    color:#9c9c9c ;
+    cursor: pointer;
+    display: none;
+}
+
+.Header-bars:hover {
+    color: #fff;
+}
+
+@media screen and (min-width : 990px) and (max-width :2780px) {
+    
+ 
+}
+
+@media screen and (min-width : 240px) and (max-width :989px) {
+    .Header-bars  {
+        display: block;
+    }
+    .Header-links  {
+        display: none;
+    }
+}
+    
+   
+
+/* !......................................! */
+
+
+@media screen and (min-width : 1280px) and (max-width : 1536px) {
+   
+}
+
+@media screen and (min-width : 1024px) and (max-width : 1279px) {
+
+  
+}
+
+@media screen and (min-width : 990px) and (max-width : 1023px) {
+   
+}
+
+@media screen and (min-width : 769px) and (max-width : 989px) {
+   
+   
+}
+
+@media screen and (min-width : 640px) and (max-width : 768px) {
+
+   
+  
+}
+
+@media screen and (min-width : 568px) and (max-width :639px) {
+ 
+  
+  
+}
+
+@media screen and (min-width : 480px) and (max-width :567px) {
+    
+   
+}
+
+@media screen and (min-width : 320px) and (max-width :479px) {
+  
+    
+}
+
+@media screen and (min-width : 240px) and (max-width :319px) {
+    
+    
+}

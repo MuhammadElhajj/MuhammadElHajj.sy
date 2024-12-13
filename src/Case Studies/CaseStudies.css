@@ -1,0 +1,167 @@
+.CaseStudies {
+  background-color: #fff;
+  padding: 20px 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.CaseStudies h2 {
+  padding: 10px 0;
+  font-size: 30px;
+}
+
+.CaseStudies p {
+  width: 50%;
+  text-align: center;
+  color: #9c9c9c;
+}
+
+.CaseStudiesContainer-1 , 
+.CaseStudiesContainer-2 , 
+.CaseStudiesContainer-3 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px 15%;
+}
+.CaseStudiesContainer-2 {
+  flex-direction: row-reverse;
+}
+
+.CaseStudiesContainer-1 .part-one {
+  width: 50%;
+}
+.CaseStudiesContainer-1 .part-one h4 {
+  color: #0f4a84;
+  background-color: #0f4a8436;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.CaseStudiesContainer-1 .part-one p {
+  width: 100%;
+  text-align: left;
+  font-size: 13px;
+  letter-spacing: 1px;
+  margin-bottom:20px ;
+
+}
+
+.CaseStudiesContainer-1 .part-one button  {
+display: flex;
+align-items: center;
+justify-content: center;
+color: #fff;
+background-color: #0f4a84;
+border: 0;
+padding: 10px 40px;
+border-radius: 10px;
+}
+.CaseStudiesContainer-1 .part-one button  span {
+  margin-right: 5px;
+}
+.CaseStudiesContainer-1 .part-one h3 {
+ margin-bottom:20px ;
+ font-size: 30px;
+}
+.CaseStudiesContainer-1 .part-tow {
+  width: 30%;
+}
+.CaseStudiesContainer-1 .part-tow img {
+  width: 100%;
+}
+
+
+.CaseStudiesContainer-2 .part-one {
+  width: 50%;
+}
+.CaseStudiesContainer-2 .part-one h4 {
+  color: #88aebd;
+  background-color: #88aebd29;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.CaseStudiesContainer-2 .part-one p {
+  width: 100%;
+  text-align: left;
+  font-size: 13px;
+  letter-spacing: 1px;
+  margin-bottom:20px ;
+
+}
+
+.CaseStudiesContainer-2 .part-one button  {
+display: flex;
+align-items: center;
+justify-content: center;
+color: #fff;
+background-color: #88aebd;
+border: 0;
+padding: 10px 40px;
+border-radius: 10px;
+}
+.CaseStudiesContainer-2 .part-one button  span {
+  margin-right: 5px;
+}
+.CaseStudiesContainer-2 .part-one h3 {
+ margin-bottom:20px ;
+ font-size: 30px;
+}
+.CaseStudiesContainer-2 .part-tow {
+  width: 30%;
+}
+.CaseStudiesContainer-2 .part-tow img {
+  width: 100%;
+}
+
+
+
+.CaseStudiesContainer-3 .part-one {
+  width: 50%;
+}
+.CaseStudiesContainer-3 .part-one h4 {
+  color: #e32525;
+  background-color: #e3252529;
+  width: fit-content;
+  padding: 5px 10px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+}
+.CaseStudiesContainer-3 .part-one p {
+  width: 100%;
+  text-align: left;
+  font-size: 13px;
+  letter-spacing: 1px;
+  margin-bottom:20px ;
+
+}
+
+.CaseStudiesContainer-3 .part-one button  {
+display: flex;
+align-items: center;
+justify-content: center;
+color: #fff;
+background-color: #e32525;
+border: 0;
+padding: 10px 40px;
+border-radius: 10px;
+}
+.CaseStudiesContainer-3 .part-one button  span {
+  margin-right: 5px;
+}
+.CaseStudiesContainer-3 .part-one h3 {
+ margin-bottom:20px ;
+ font-size: 30px;
+}
+.CaseStudiesContainer-3 .part-tow {
+  width: 30%;
+}
+.CaseStudiesContainer-3 .part-tow img {
+  width: 100%;
+}
+

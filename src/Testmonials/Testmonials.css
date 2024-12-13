@@ -1,0 +1,63 @@
+.Testmonials {
+    background-color:  #080808;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 15% 5%;
+}
+
+.Testmonials h2 {
+    color: #fff;
+    padding: 25px 0;
+
+}
+.Testmonials p {
+    width: 50%;
+    text-align: center;
+    color: #9c9c9c;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+}
+.Testmonials-container-main  {
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+.Testmonials-container {
+display: flex;
+flex-direction: column;
+box-shadow: 0 0 1px gray;
+padding: 15px;
+}
+
+.Testmonials-container .comma {
+color: #fff;
+font-size: 30px;
+margin-bottom: 30px;
+}
+.Testmonials-container p {
+    text-align: left;
+    font-size: 13px;
+    padding: 0;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.Testmonials-container div {
+display: flex;
+align-items: center;
+margin-bottom: 30px;
+
+}
+
+.Testmonials-container div img {
+width: 50px;
+border-radius: 50%;
+margin-right: 10px;
+
+}
+
+.Testmonials-container div h3 {
+    color: #fff;
+    font-size: 20px;
+}

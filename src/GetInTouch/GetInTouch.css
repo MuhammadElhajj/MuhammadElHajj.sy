@@ -1,0 +1,17 @@
+.GetInTouch {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 20px 15%;
+}
+.GetInTouch > h2 {
+    padding: 10px 0;
+
+}
+.GetInTouch > p {
+    width: 50%;
+    text-align: center;
+    color: #9c9c9c;
+}
