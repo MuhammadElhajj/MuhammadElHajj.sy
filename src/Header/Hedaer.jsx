@@ -10,7 +10,7 @@ function Header () {
     <a href='#Home'>Home</a>
     <a href='#CaseStudies'>Case Studies</a>
     <a href='#Testimonials'>Testimonials</a>
-    <a href='#RecentWork'>Recent Work</a>
+    {/* <a href='#RecentWork'>Recent Work</a> */}
     <a href='#GetInTouch'>Get in Touch</a>
     
 </div>

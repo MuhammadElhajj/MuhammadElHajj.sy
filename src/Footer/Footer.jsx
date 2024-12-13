@@ -1,5 +1,6 @@
 import './Footer.css'
 import './Footerdemo.css'
+import { FaPlane } from 'react-icons/fa6'
 
 
 
@@ -47,7 +48,7 @@ function Footer () {
                 <div class="input-group">
                   <input type="text" class="form-control" placeholder="Search for..." />
                   <span class="input-group-btn">
-                    <button class="btn btn-default" type="button"><span class="glyphicon glyphicon-envelope"></span></button>
+                    <button class="btn btn-default" type="button"> <FaPlane /> </button>
                   </span>
                 </div>
              </p>
